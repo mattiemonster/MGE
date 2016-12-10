@@ -1,0 +1,13 @@
+#ifndef _H_MGESHAPES_
+#define _H_MGESHAPES_
+
+#define MGE_SHAPE_NONE 0
+#define MGE_SHAPE_NULL 0
+#define MGE_NULL 0
+#define MGE_NONE 0
+#define MGE_SHAPE_TRIANGLE 1
+#define MGE_SHAPE_SQUARE 2
+#define MGE_SHAPE_RECTANGLE 3
+#define MGE_SHAPE_TRAPEZOID 4
+
+#endif
